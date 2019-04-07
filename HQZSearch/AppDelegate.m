@@ -23,6 +23,8 @@
     UINavigationController *nav = [[UINavigationController alloc] initWithRootViewController:[[SearchViewController alloc] init]];
     self.window.rootViewController = nav;
     
+    NSLog(@"test1");
+    
     return YES;
 }
 
