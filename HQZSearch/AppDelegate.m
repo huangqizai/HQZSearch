@@ -25,6 +25,8 @@
     
     NSLog(@"test1");
     
+    NSLog(@"创建分支");
+    
     return YES;
 }
 
